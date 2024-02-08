@@ -49,8 +49,8 @@ https://emojipedia.org/ko/search?q=phone // 이모지 검색
 <summary>🔥 PSEDU홀딩스 자사 학원 통합 어플 개발(FLUTTER)</summary>    
    <sub style="color: lightgray;"> 
     - API 개발<br/>
-    - 커뮤니티 FLUTTER 모델작업 
-    - 일반관리 FLUTTER 모델작업 
+    - 커뮤니티 FLUTTER 모델작업 <br/>
+    - 일반관리 FLUTTER 모델작업 <br/>
 </details>
 
 ## 2023
