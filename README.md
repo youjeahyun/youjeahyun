@@ -76,7 +76,7 @@ https://emojipedia.org/ko/search?q=phone // 이모지 검색
 ## 2022
 <details>
 <summary>🌈 PSEDU홀딩스 ( PHP 코드이그나이터를 이용한 MVC2 방식) </summary>    
-   <sub style="color: lightgray;"> - 문제은행V1 솔루션 성적처리(간편채점/온라인채점/OMR채점) 개발, 
+   <sub style="color: lightgray;"> - 문제은행V1 솔루션 성적처리(간편채점/온라인채점/OMR채점) 개발<br/>
     - 학원관리시스템 솔루션 카드단말기 연동<br/>
     - 학원관리시스템 솔루션 문자결제 연동<br/>
     - 교재판매 쇼핑몰 개발 (A->Z 단독 프로젝트)<br/>
