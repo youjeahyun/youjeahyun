@@ -59,8 +59,8 @@ https://emojipedia.org/ko/search?q=phone // 이모지 검색
    <sub style="color: lightgray;"> 
     - 문제은행V2 API 개발 <br/>
     - 약점공략서 API 개발 (BACK)<br/>
-    - 문제은행V2 학교별 기출문제 REACT 개발
-    - 문제은행V2 오답시험만들기 REACT 개발 
+    - 문제은행V2 학교별 기출문제 REACT 개발<br/>
+    - 문제은행V2 오답시험만들기 REACT 개발 <br/>
 </details>
      
 <details>
