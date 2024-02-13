@@ -45,7 +45,7 @@ https://emojipedia.org/ko/search?q=phone // 이모지 검색
 # Project
 
 ## 2024
-- 🌈 24.02.13 ~ 구인구직 솔루션 구현
+- 🌈 24.02.13 ~ 구인구직 솔루션 구현중. . .
 <details>
 <summary>🔥 PSEDU홀딩스 자사 학원 통합 어플 개발(FLUTTER)</summary>    
    <sub style="color: lightgray;"> 
