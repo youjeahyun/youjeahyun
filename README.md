@@ -49,7 +49,20 @@ https://emojipedia.org/ko/search?q=phone // 이모지 검색
 # Project
 
 ## 2024
-- 🌈 24.02.13 ~ 구인구직 솔루션 구현중. . .
+<details>
+<summary>🔥 PSEDU홀딩스 네이버 PLACE에 작성 할 수 있는 영수증 PNG이미지 저장기능 </summary>    
+   <sub style="color: lightgray;"> 
+    - 단말기 혹은 문자결제로 결제 되어 DB에 쌓여있는 정보로 학원별 영수증 PNG이미지 저장 기능 <br/>
+    - 해당 기능은 누구든 네이버 플레이스에 로그인하여 해당 영수증만 저장받아서 사용해도 실제로 결제하지 않았어도 영수증 리뷰가 가능한 마케팅 기능임
+</details>
+<details>
+<summary>🔥 PSEDU홀딩스 구인구직 플랫폼 개발/summary>    
+   <sub style="color: lightgray;"> 
+    - 기업 회원가입 화면 및 기능 개발 <br/>
+    - 개인 회원가입 화면 및 기능 개발 <br/>
+    - 이력서 등록 기능 개발 <br/>
+    - 채용 등록 기능 개발 <br/>
+</details>
 <details>
 <summary>🔥 PSEDU홀딩스 자사 학원 통합 어플 개발(FLUTTER)</summary>    
    <sub style="color: lightgray;"> 
