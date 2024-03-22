@@ -56,7 +56,7 @@ https://emojipedia.org/ko/search?q=phone // 이모지 검색
     - 해당 기능은 누구든 네이버 플레이스에 로그인하여 해당 영수증만 저장받아서 사용해도 실제로 결제하지 않았어도 영수증 리뷰가 가능한 마케팅 기능임
 </details>
 <details>
-<summary>🔥 PSEDU홀딩스 구인구직 플랫폼 개발/summary>    
+<summary>🔥 PSEDU홀딩스 구인구직 플랫폼 개발</summary>    
    <sub style="color: lightgray;"> 
     - 기업 회원가입 화면 및 기능 개발 <br/>
     - 개인 회원가입 화면 및 기능 개발 <br/>
