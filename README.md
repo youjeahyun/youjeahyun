@@ -53,10 +53,11 @@ https://emojipedia.org/ko/search?q=phone // 이모지 검색
    <summary>🌈 ~ 24.03.31 PSEDU홀딩스 (퇴사예정)</summary>    
 </details>
 <details>
-<summary>🌈 PSEDU홀딩스 네이버 PLACE에 작성 할 수 있는 영수증 PNG이미지 저장기능 </summary>    
+<summary>🌈 PSEDU홀딩스 네이버 PLACE에 작성 할 수 있는 영수증 PNG이미지 저장기능 (내내 아이디어!) </summary>    
    <sub style="color: lightgray;"> 
     - 단말기 혹은 문자결제로 결제 되어 DB에 쌓여있는 정보로 학원별 영수증 PNG이미지 저장 기능 <br/>
-    - 해당 기능은 누구든 네이버 플레이스에 로그인하여 해당 영수증만 저장받아서 사용해도 실제로 결제하지 않았어도 영수증 리뷰가 가능한 마케팅 기능임
+    * 해당 기능은 누구든 네이버 플레이스에 로그인하여 해당 영수증만 저장받아서 실제로 결제하지 않은 학부모라도 마케팅팀 혹은 운영팀에서 영수증 리뷰가 가능한 마케팅 기능!
+    * 아주 좋은 아이디어였던거 같음!!
 </details>
 <details>
 <summary>🌈 PSEDU홀딩스 구인구직 플랫폼 개발</summary>    
