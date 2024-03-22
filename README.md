@@ -50,7 +50,7 @@ https://emojipedia.org/ko/search?q=phone // 이모지 검색
 
 ## 2024
 <details>
-   <summary>🌈 ~ 24.03 PSEDU홀딩스 </summary>    
+   <summary>🌈 ~ 24.03.31 PSEDU홀딩스 (퇴사예정)</summary>    
 </details>
 <details>
 <summary>🌈 PSEDU홀딩스 네이버 PLACE에 작성 할 수 있는 영수증 PNG이미지 저장기능 </summary>    
@@ -114,7 +114,7 @@ https://emojipedia.org/ko/search?q=phone // 이모지 검색
    <summary>🌈 21.12 ~ PSEDU홀딩스 </summary>    
 </details>
 <details>
-<summary>✨ 21.09 ~ 12 에스지에이E스포츠 </summary>    
+<summary>✨ 21.09 ~ 12 에스지에이E스포츠 (퇴사)</summary>    
    <sub style="color: lightgray;">
     - 게임의민족 플랫폼 리스트페이지 동기 방식에서 AJAX를 이용하여 비동기로 전환 <br/>
     - 대회 생성 기능 (DB설계 후 구현) <br/>
