@@ -93,7 +93,8 @@ https://emojipedia.org/ko/search?q=phone // 이모지 검색
     - 학원관리시스템 학생 진도계획표 기능 개발<br/>
     - 학원별 공식홈페이지 내 관리자페이지 기능 개발<br/>
 </details>
-
+      
+<details>
 <summary>🌈 PSEDU홀딩스 기타</summary>    
    <sub style="color: lightgray;"> 
     - 짱솔학원 홈페이지 ASP -> PHP 컨버팅<br/>
