@@ -50,7 +50,7 @@ https://emojipedia.org/ko/search?q=phone // 이모지 검색
 
 ## 2024
 <details>
-   <summary>🌈 21.12 ~ 24.03.31 PSEDU홀딩스 (퇴사예정😂😂)</summary>    
+   <summary>🌈 21.12 ~ 24.03.31 PSEDU홀딩스 (퇴사)</summary>    
 </details>
 <details>
 <summary>🌈 PSEDU홀딩스 네이버 PLACE에 작성 할 수 있는 영수증 PNG이미지 저장기능 (나의 아이디어!) </summary>    
