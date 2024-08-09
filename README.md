@@ -30,24 +30,23 @@ https://emojipedia.org/ko/search?q=phone // 이모지 검색
 
 
 
-## 현업사용: 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white" /> <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=CodeIgniter&logoColor=white" /> <img src="https://img.shields.io/badge/MySql-4479A1?style=flat&logo=MySql&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/><img src="https://img.shields.io/badge/React-46d5fc?style=flat&logo=React&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&amp;logo=flutter&amp;logoColor=white">
-
-
-
-## 개인학습:
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=Node.js&amp;logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-
-
-
+## 사용언어 및 환경: 
+#### 2024~
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+#### 2021~2023
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white" /> <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=CodeIgniter&logoColor=white" /> <img src="https://img.shields.io/badge/MySql-4479A1?style=flat&logo=MySql&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" /> <img src="https://img.shields.io/badge/React-46d5fc?style=flat&logo=React&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&amp;logo=flutter&amp;logoColor=white">
 
 
 ## 개발툴: 
-<img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=white" /> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&amp;logo=Visual Studio Code&amp;logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&amp;logo=Postman&amp;logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=GitHub&amp;logoColor=white">
+<img src="https://img.shields.io/badge/pycharm-123123?style=flat&logo=PyCharm&logoColor=white" /> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&amp;logo=Visual Studio Code&amp;logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&amp;logo=Postman&amp;logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=GitHub&amp;logoColor=white">
 
 # Project
 
 ## 2024
+<details>
+   <summary>🎶 24.04 ~ 재직중 </summary>    
+</details>
+
 <details>
    <summary>🌈 21.12 ~ 24.03.31 PSEDU홀딩스 (퇴사)</summary>    
 </details>
